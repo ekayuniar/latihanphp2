@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1>Selamat Datang</h1>
+    <!-- Tugas 2 -->
     <?php echo "<h1>Eka Yuniar</h1>"; ?>
 
 </body>
