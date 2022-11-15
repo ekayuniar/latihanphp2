@@ -1,3 +1,6 @@
+<?php
+$nama = "Eka Yuniar";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,8 +12,9 @@
 </head>
 
 <body>
-    <!-- Tugas 2 -->
-    <?php echo "<h1>Eka Yuniar</h1>"; ?>
+    <!-- Tugas 3 -->
+    <h1>Selamat Datang
+        <?php echo $nama; ?></h1>
 
 </body>
 
